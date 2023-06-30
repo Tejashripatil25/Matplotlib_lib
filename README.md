@@ -1,5 +1,21 @@
 ### Matplotlib_lib
 
+![image](https://github.com/Tejashripatil25/Matplotlib_lib/assets/124791646/80fbd544-3f11-4bd0-8c09-e09670baacca)
+
+Matplotlib is an amazing visualization library in Python for 2D plots of arrays. 
+
+Matplotlib is a multi-platform data visualization library built on NumPy arrays and designed to work with the broader SciPy stack. 
+
+It was introduced by John Hunter in the year 2002. One of the greatest benefits of visualization is that it allows us visual access to huge amounts of data in easily digestible visuals. 
+
+Matplotlib consists of several plots like line, bar, scatter, histogram etc. 
+
+Installation : Windows, Linux and macOS distributions have matplotlib and most of its dependencies as wheel packages. 
+
+Run the following command to install matplotlib package :
+
+python -mpip install -U matplotlib
+
 ### importing matplotlib module
 
 from matplotlib import pyplot as plt
